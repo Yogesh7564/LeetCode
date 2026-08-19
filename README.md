@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yogesh7564/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Database
+|  |
+| ------- |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/Yogesh7564/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 <!---LeetCode Topics End-->
