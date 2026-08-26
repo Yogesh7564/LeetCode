@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yogesh7564/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Yogesh7564/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/Yogesh7564/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Yogesh7564/LeetCode/tree/master/0724-find-pivot-index) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/Yogesh7564/LeetCode/tree/master/0647-palindromic-substrings) |
+## String
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/Yogesh7564/LeetCode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
