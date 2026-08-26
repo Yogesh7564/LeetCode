@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0619-biggest-single-number](https://github.com/Yogesh7564/LeetCode/tree/master/0619-biggest-single-number) |
 | [1527-patients-with-a-condition](https://github.com/Yogesh7564/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Yogesh7564/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/Yogesh7564/LeetCode/tree/master/1667-fix-names-in-a-table) |
