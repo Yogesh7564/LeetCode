@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Yogesh7564/LeetCode/tree/master/0205-isomorphic-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yogesh7564/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Database
 |  |
@@ -43,5 +44,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Yogesh7564/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0647-palindromic-substrings](https://github.com/Yogesh7564/LeetCode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
