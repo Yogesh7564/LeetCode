@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Yogesh7564/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Yogesh7564/LeetCode/tree/master/0290-word-pattern) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yogesh7564/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3945-digit-frequency-score](https://github.com/Yogesh7564/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Database
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Yogesh7564/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Yogesh7564/LeetCode/tree/master/0290-word-pattern) |
 | [0647-palindromic-substrings](https://github.com/Yogesh7564/LeetCode/tree/master/0647-palindromic-substrings) |
+## Math
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/Yogesh7564/LeetCode/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
