@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Yogesh7564/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Yogesh7564/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0724-find-pivot-index](https://github.com/Yogesh7564/LeetCode/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/Yogesh7564/LeetCode/tree/master/0912-sort-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yogesh7564/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yogesh7564/LeetCode/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/Yogesh7564/LeetCode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +55,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3945-digit-frequency-score](https://github.com/Yogesh7564/LeetCode/tree/master/3945-digit-frequency-score) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Yogesh7564/LeetCode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Yogesh7564/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Yogesh7564/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Yogesh7564/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Yogesh7564/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Yogesh7564/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
