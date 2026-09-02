@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yogesh7564/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Yogesh7564/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Yogesh7564/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Yogesh7564/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Hash Table
 |  |
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Yogesh7564/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Yogesh7564/LeetCode/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Yogesh7564/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Yogesh7564/LeetCode/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/Yogesh7564/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Yogesh7564/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Math
 |  |
