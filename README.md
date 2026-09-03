@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yogesh7564/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Yogesh7564/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0496-next-greater-element-i](https://github.com/Yogesh7564/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Yogesh7564/LeetCode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Yogesh7564/LeetCode/tree/master/0912-sort-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yogesh7564/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Yogesh7564/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Yogesh7564/LeetCode/tree/master/0290-word-pattern) |
+| [0496-next-greater-element-i](https://github.com/Yogesh7564/LeetCode/tree/master/0496-next-greater-element-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yogesh7564/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3945-digit-frequency-score](https://github.com/Yogesh7564/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Database
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Yogesh7564/LeetCode/tree/master/0912-sort-an-array) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Yogesh7564/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Yogesh7564/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
