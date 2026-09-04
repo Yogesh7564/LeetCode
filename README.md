@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/Yogesh7564/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Yogesh7564/LeetCode/tree/master/0619-biggest-single-number) |
 | [1211-queries-quality-and-percentage](https://github.com/Yogesh7564/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1527-patients-with-a-condition](https://github.com/Yogesh7564/LeetCode/tree/master/1527-patients-with-a-condition) |
