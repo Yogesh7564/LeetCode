@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Yogesh7564/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Yogesh7564/LeetCode/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/Yogesh7564/LeetCode/tree/master/0912-sort-an-array) |
+| [1920-build-array-from-permutation](https://github.com/Yogesh7564/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yogesh7564/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Yogesh7564/LeetCode/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Yogesh7564/LeetCode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
